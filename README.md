@@ -1,8 +1,8 @@
 # Consumindo Api com Angular.
-Colocando em prática o que estudado e aprendendo suar o git.
+Colocando em prática o que estudado e aprendendo usar o git.
 
 ## Uso de
- Angular,
+[Angular],
 
 
 &nbsp;
