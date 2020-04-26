@@ -2,7 +2,7 @@
 Colocando em prática o que estudado e aprendendo suar o git.
 
 ## Uso de
-Angular,
+ Angular,
 
 
 &nbsp;
