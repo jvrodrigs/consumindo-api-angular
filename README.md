@@ -2,7 +2,7 @@
 Colocando em prática o que estudado e aprendendo usar o git.
 
 ## Uso de
-[Angular],
+[Angular](https://angular.io/),
 
 
 &nbsp;
